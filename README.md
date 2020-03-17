@@ -1,2 +1,2 @@
 # various-NLP-experiments
-Series of exercises, tasks, experiments, etc. in NLP applications
+Some class assignments, some personal projects, maybe future research work.. 
